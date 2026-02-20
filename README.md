@@ -25,3 +25,5 @@
   </div>
 
   ![Snake animation](https://github.com/eduardaczs/eduardaczs/blob/output/github-contribution-grid-snake-dark.svg)
+
+  ![Meu GIF](ezgif.com-animated-gif-maker)
