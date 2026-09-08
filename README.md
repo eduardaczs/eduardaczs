@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Eduarda Cardoso.
 
 - 🔭 Atualmente estou focada em back-end
-- 🌱 Estou aprendendo JAVA
+- 🌱 Estou aprendendo JavaScript
 - 😄 Pronomes: ela/dela
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardaczs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
